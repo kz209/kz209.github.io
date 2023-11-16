@@ -21,15 +21,15 @@ author_profile: true
 
 * **Rethinking Data Distillation: Do Not Overlook Calibration**\\
   Dongyao Zhu, Bowen Lei, Jie Zhang, **Yanbo Fang**, Ruqi Zhang, Yiqun Xie, Dongkuan Xu\\
-  Accepted by ICCV 2023\\
+  ICCV 2023\\
   [Paper](https://arxiv.org/pdf/2307.12463)
 
 * **Zero-shot Bridge Concepts Extraction from Pre-trained Language Models for Commonsense Explanations**\\
   **Yanbo Fang**, Yongfeng Zhang\\
-  Accepted by findings of EMNLP 2022\\
+  EMNLP 2022 findings\\
   [Paper](https://aclanthology.org/2022.findings-emnlp.433.pdf)
 
 * **Assessing Combinational Generalization of Language Models in Biased Scenarios**\\
   **Yanbo Fang**, Zuohui Fu, Xin Dong, Yongfeng Zhang, Gerard de Melo\\
-  Accepted by AACL 2022\\
+  AACL 2022\\
   [Paper](https://aclanthology.org/2022.aacl-short.48.pdf)
