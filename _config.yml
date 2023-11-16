@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Yanbo Fang"
-description              : &description "personal description"
+description              : &description "Interested in NLP"
 url                      : https://yanbo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kz209/yanbo.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yanbo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Interested in NLP"
+  location         : "New Jersey"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rSjpsNUAAAAJ&hl=en"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
