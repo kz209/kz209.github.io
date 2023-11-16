@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! I am currently a NLP Data Scientist. I am focusing on Natural Language Processing and Machine Learning, and I worked with [Prof. Yongfeng Zhang](http://yongfeng.me/) and [Prof. Gerard de Melo](http://gerard.demelo.org/index.html#). [Resume]([https://drive.google.com/file/d/1_YvS4Oyel2ecMTyolz1GKGR5OLhE86yl/view?usp=sharing](https://drive.google.com/file/d/1SmIAPy-wDFSG7H1snNGmqJtuWjkaPmpI/view?usp=drive_link)) (Update: 11/12/2023)
+Welcome to my webpage! I am currently a NLP Data Scientist. I am focusing on Natural Language Processing and Machine Learning, and I worked with [Prof. Yongfeng Zhang](http://yongfeng.me/) and [Prof. Gerard de Melo](http://gerard.demelo.org/index.html#).\\
+[Resume]([https://drive.google.com/file/d/1_YvS4Oyel2ecMTyolz1GKGR5OLhE86yl/view?usp=sharing](https://drive.google.com/file/d/1SmIAPy-wDFSG7H1snNGmqJtuWjkaPmpI/view?usp=drive_link)) (Update: 11/12/2023)
 
 I am mainly interested in two NLP/AI research questions:
   * **Exploring the Boundary of Large Language Models**: Currently and in the future, what capabilities might large language models (LLMs) possess? Is it possible for LLMs to develop creativity? Generally, creativity can be conceptualized as existing at the far end of a fat-tail distribution, indicating that truly creative outputs are rare and overshadowed by a vast majority of conventional data, reflecting 'minority rules' rather than 'majority rules'. While smaller models are prone to overfitting, it's intriguing to consider whether LLMs, now or in the future, have the potential to identify and generate these infrequent yet profound creative instances?
