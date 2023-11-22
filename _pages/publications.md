@@ -24,7 +24,7 @@ author_profile: true
   **ICCV 2023**\\
   [Paper](https://arxiv.org/pdf/2307.12463)
 
-* **Zero-shot Bridge Concepts Extraction from Pre-trained Language Models for Commonsense Explanations**\\
+* **Data-Efficient Concept Extraction from Pre-trained Language Models for Commonsense Explanation Generation**\\
   **Yanbo Fang**, Yongfeng Zhang\\
   **EMNLP 2022 findings**\\
   [Paper](https://aclanthology.org/2022.findings-emnlp.433.pdf)
