@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my webpage! I am currently a NLP Data Scientist. I am focusing on Natural Language Processing and Machine Learning, and I worked with [Prof. Yongfeng Zhang](http://yongfeng.me/) and [Prof. Gerard de Melo](http://gerard.demelo.org/index.html#).
 
-[Resume]([https://drive.google.com/file/d/1_YvS4Oyel2ecMTyolz1GKGR5OLhE86yl/view?usp=sharing](https://drive.google.com/file/d/1SmIAPy-wDFSG7H1snNGmqJtuWjkaPmpI/view?usp=drive_link))
+[Resume]([https://drive.google.com/file/d/1_YvS4Oyel2ecMTyolz1GKGR5OLhE86yl/view?usp=sharing](https://drive.google.com/file/d/1SmIAPy-wDFSG7H1snNGmqJtuWjkaPmpI/view?usp=drive_link))\\
 [Research Statement](https://drive.google.com/file/d/1Ith3j3El0XQ7mVyEgQBEgkMtMC7u1XXf/view?usp=sharing)
 
 I am mainly interested in the following NLP/AI research questions:
